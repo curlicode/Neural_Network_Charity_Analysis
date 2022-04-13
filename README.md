@@ -52,7 +52,7 @@ Because the Alphabet Soup foundation receives numerous funding recipients (34,00
   * *Were you able to achieve the target model performance?*
     * __Deliverable(s) (1) and (2).__ The base model achieves {loss: 0.5432, accuracy: 0.7335} for the training set.  The base model achieves a {loss: 0.5482, accuracy: 0.7348} after 10 epochs.
 
-    * __Deliverable(s) (3).__ After running the model for 10 epochs, the model achieves {loss: 0.001170 accuracy: 0.9999} after 10 epochs without modifying or requiring additional epochs.
+    * __Deliverable(s) (3).__ After running the model for 10 epochs, the model achieves {loss: 0.001170 accuracy: 0.9999} after 10 epochs without modifying or requiring additional epochs, exceeding the target model performance of {accuracy: 0.75}.
 
   * *What steps did you take to try and increase model performance?*
     * __Deliverable(s) (1) and (2).__ None (base case).
